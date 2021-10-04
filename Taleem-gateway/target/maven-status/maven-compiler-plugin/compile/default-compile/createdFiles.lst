@@ -1,0 +1,16 @@
+com\bean\taleem\oauth2\CustomOidcUserService.class
+com\bean\taleem\TaleemGatewayApplication.class
+com\bean\taleem\config\JwtTokenUtil.class
+com\bean\taleem\clients\ClientBundleService.class
+com\bean\taleem\model\Bundle.class
+com\bean\taleem\model\Education.class
+com\bean\taleem\controller\GatewayController.class
+com\bean\taleem\config\JwtAuthenticationFilter.class
+com\bean\taleem\config\SecurityConfig.class
+com\bean\taleem\clients\ClientUserService.class
+com\bean\taleem\config\JwtAuthenticationEntryPoint.class
+com\bean\taleem\config\Constants.class
+com\bean\taleem\oauth2\CustomAuthenticationSuccessHandler.class
+com\bean\taleem\model\GoogleOAuth2UserInfo.class
+com\bean\taleem\model\UserType.class
+com\bean\taleem\model\User.class
